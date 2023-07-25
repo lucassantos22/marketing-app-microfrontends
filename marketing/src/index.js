@@ -1,0 +1,1 @@
+document.querySelector('#marketing-dev').innerHTML = 'Funcionou!'
