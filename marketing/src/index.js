@@ -1,1 +1,1 @@
-document.querySelector('#marketing-dev').innerHTML = 'Funcionou!'
+import('./bootstrap.js')
